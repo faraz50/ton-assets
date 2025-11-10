@@ -1,0 +1,12 @@
+{
+  "name": "GreenTree",
+  "symbol": "GT",
+  "decimals": 9,
+  "image": "https://greentreebot.me/logo.png",
+  "description": "GreenTree (GT) is a small, real, eco-focused project on TON. Tokens are distributed through a transparent WebApp-based airdrop and have been sent to around one hundred different wallets through real user participation.",
+  "social": {
+    "website": "https://greentreebot.me",
+    "telegram": "https://t.me/GreenTree_coin",
+    "twitter": "https://x.com/Green_Tree_coin"
+  }
+}
